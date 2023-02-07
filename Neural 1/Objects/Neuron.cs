@@ -14,34 +14,29 @@ namespace Neural
         private double bias;
         //  Saída do neurônio.
         private double output;
+        //  Função de ativação do neurônio.
+        private ActiveFunction activeFunction;
 
         /// <summary>
         /// ID do neurônio.
         /// </summary>
         public long Id { get => id; private set => id = value; }
-
         /// <summary>
         /// Peso da bias.
         /// </summary>
         public double Bias { get => bias; protected set => bias = value; }
+        /// <summary>
+        /// Output do neurônio.
+        /// </summary>
+        public double Output { get=> output; protected set => output = value; }
 
         /// <summary>
         /// Ativa um neurônio gerando um output.
         /// </summary>
-        protected double Active()
+        protected Task Active(double input)
         {
-            
-        }
-
-        /// <summary>
-        /// Método responsavel pela aprendizagem do neurônio.
-        /// </summary>
-        /// <param name="error">Erro associado</param>
-        /// <param name="learningRate">Taxa de aprendizagem</param>
-        protected double Apprend(double error, double learningRate)
-        {
-            
+            output = activeFunction.Active(input);
+            return Task.CompletTask;
         }
     }
-
 }
