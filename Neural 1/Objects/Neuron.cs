@@ -17,6 +17,19 @@ namespace Neural
         /// ID do neurônio.
         /// </summary>
         public long Id { get => id; private set => id = value; }
+
+        /// <summary>
+        /// Peso da bias.
+        /// </summary>
+        public double Bias { get => bias; protected set => bias = value; }
+
+        /// <summary>
+        /// Ativa um neurônio gerando um output.
+        /// </summary>
+        protected double Active()
+        {
+            
+        }
     }
 
 }
