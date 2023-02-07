@@ -22,6 +22,8 @@ namespace Neural
 
         //  Id da camada para gerenciamento.
         private long id;
+        //  Neurônios que compõem a camada.
+        private readonly List<Neuron> neurons;
 
         /// <summary>
         /// ID da camada de neurônios.
