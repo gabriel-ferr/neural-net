@@ -1,0 +1,15 @@
+/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Redes Neurais/Dotnet/Neural 1/Neural 1/bin/Debug/net7.0/Neural 1
+/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Redes Neurais/Dotnet/Neural 1/Neural 1/bin/Debug/net7.0/Neural 1.deps.json
+/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Redes Neurais/Dotnet/Neural 1/Neural 1/bin/Debug/net7.0/Neural 1.runtimeconfig.json
+/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Redes Neurais/Dotnet/Neural 1/Neural 1/bin/Debug/net7.0/Neural 1.dll
+/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Redes Neurais/Dotnet/Neural 1/Neural 1/bin/Debug/net7.0/Neural 1.pdb
+/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Redes Neurais/Dotnet/Neural 1/Neural 1/obj/Debug/net7.0/Neural 1.csproj.AssemblyReference.cache
+/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Redes Neurais/Dotnet/Neural 1/Neural 1/obj/Debug/net7.0/Neural 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Redes Neurais/Dotnet/Neural 1/Neural 1/obj/Debug/net7.0/Neural 1.AssemblyInfoInputs.cache
+/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Redes Neurais/Dotnet/Neural 1/Neural 1/obj/Debug/net7.0/Neural 1.AssemblyInfo.cs
+/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Redes Neurais/Dotnet/Neural 1/Neural 1/obj/Debug/net7.0/Neural 1.csproj.CoreCompileInputs.cache
+/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Redes Neurais/Dotnet/Neural 1/Neural 1/obj/Debug/net7.0/Neural 1.dll
+/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Redes Neurais/Dotnet/Neural 1/Neural 1/obj/Debug/net7.0/refint/Neural 1.dll
+/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Redes Neurais/Dotnet/Neural 1/Neural 1/obj/Debug/net7.0/Neural 1.pdb
+/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Redes Neurais/Dotnet/Neural 1/Neural 1/obj/Debug/net7.0/Neural 1.genruntimeconfig.cache
+/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Redes Neurais/Dotnet/Neural 1/Neural 1/obj/Debug/net7.0/ref/Neural 1.dll
