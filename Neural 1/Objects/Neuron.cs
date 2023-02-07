@@ -12,6 +12,8 @@ namespace Neural
         private long id;
         //  Bias relacionada ao neurônio.
         private double bias;
+        //  Saída do neurônio.
+        private double output;
 
         /// <summary>
         /// ID do neurônio.
@@ -27,6 +29,16 @@ namespace Neural
         /// Ativa um neurônio gerando um output.
         /// </summary>
         protected double Active()
+        {
+            
+        }
+
+        /// <summary>
+        /// Método responsavel pela aprendizagem do neurônio.
+        /// </summary>
+        /// <param name="error">Erro associado</param>
+        /// <param name="learningRate">Taxa de aprendizagem</param>
+        protected double Apprend(double error, double learningRate)
         {
             
         }
