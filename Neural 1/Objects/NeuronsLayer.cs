@@ -29,5 +29,12 @@ namespace Neural
         /// ID da camada de neurônios.
         /// </summary>
         public long Id { get => id; private set => id = value; }
+
+        /// <summary>
+        /// Envia um pulso entre os neurônios para enviar as informações entre as sinapses.
+        /// </summary>
+        public Task Pulse ()
+        {
+        }
     }
 }
