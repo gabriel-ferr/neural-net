@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{7BD0B631-E207-4C20-AC91-4DB2C274EA14}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Objects/HiddenNeuron.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="Objects/Neuron.cs" Line="45" Column="80" IsPinned="True" />
+      <File FileName="Objects/NeuronsLayer.cs" Line="70" Column="13" IsPinned="True" />
+      <File FileName="Objects/NeuralNetwork.cs" Line="51" Column="81" IsPinned="True" />
+      <File FileName="Objects/HiddenNeuron.cs" Line="19" Column="56" IsPinned="True" />
+      <File FileName="Interfaces/ActiveFunction.cs" Line="16" Column="44" />
+      <File FileName="Functions/Activate/Sigmoid.cs" Line="17" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Neural 1" expanded="True">
+            <Node name="Neural 1" expanded="True">
+              <Node name="Functions" expanded="True">
+                <Node name="Activate" expanded="True" />
+              </Node>
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Objects" expanded="True">
+                <Node name="Abstract" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Neural_2201 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

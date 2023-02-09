@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Redes Neurais/Dotnet/Neural 1/Neural 1/Neural 1.csproj": {}
+    "/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Meus Projetos/Redes Neurais/Dotnet/neural-net/Neural 1/Neural 1.csproj": {}
   },
   "projects": {
-    "/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Redes Neurais/Dotnet/Neural 1/Neural 1/Neural 1.csproj": {
+    "/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Meus Projetos/Redes Neurais/Dotnet/neural-net/Neural 1/Neural 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Redes Neurais/Dotnet/Neural 1/Neural 1/Neural 1.csproj",
+        "projectUniqueName": "/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Meus Projetos/Redes Neurais/Dotnet/neural-net/Neural 1/Neural 1.csproj",
         "projectName": "Neural 1",
-        "projectPath": "/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Redes Neurais/Dotnet/Neural 1/Neural 1/Neural 1.csproj",
+        "projectPath": "/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Meus Projetos/Redes Neurais/Dotnet/neural-net/Neural 1/Neural 1.csproj",
         "packagesPath": "/Users/gabriel/.nuget/packages/",
-        "outputPath": "/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Redes Neurais/Dotnet/Neural 1/Neural 1/obj/",
+        "outputPath": "/Users/gabriel/Library/Mobile Documents/com~apple~CloudDocs/Meus Projetos/Redes Neurais/Dotnet/neural-net/Neural 1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gabriel/.nuget/NuGet/NuGet.Config"

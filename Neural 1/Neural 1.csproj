@@ -12,10 +12,20 @@
     <None Remove="Exceptions\" />
     <None Remove="Utilits\" />
     <None Remove="Objects\" />
+    <None Remove="Interfaces\" />
+    <None Remove="Functions\" />
+    <None Remove="Functions\Activate\" />
+    <None Remove="Functions\Error\" />
+    <None Remove="Objects\Abstract\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Exceptions\" />
     <Folder Include="Utilits\" />
     <Folder Include="Objects\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Functions\" />
+    <Folder Include="Functions\Activate\" />
+    <Folder Include="Functions\Error\" />
+    <Folder Include="Objects\Abstract\" />
   </ItemGroup>
 </Project>
